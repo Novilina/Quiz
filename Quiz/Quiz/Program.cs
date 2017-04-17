@@ -22,6 +22,7 @@ namespace Quiz
                 Console.WriteLine("Неверно.");
             }
             Console.Read();
+			
         }
     }
 }
